@@ -1,0 +1,2 @@
+# eazyn
+web minta izin
