@@ -50,7 +50,7 @@
                 <span>
                   <i class="ti ti-file-text"></i>
                 </span>
-                <span class="hide-menu">Buat Izin</span>
+                <span class="hide-menu">Buat Izin cu</span>
               </a>
             </li>
             <li class="sidebar-item">
